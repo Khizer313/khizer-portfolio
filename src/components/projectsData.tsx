@@ -2,6 +2,7 @@ import storeonImg from "../assets/images/storeon-app.png";
 import shoeImg from '../assets/images/shoes-app.png'
 import portfolio from '../assets/images/portfolio-app.png'
 import store from '../assets/images/huge-store-app.png'
+import pos from '../assets/images/pos-app.png'
 
 
 const projects = [
@@ -28,6 +29,12 @@ const projects = [
     name: "A Portfolio Website",
     image: portfolio,
     link: "https://khizerabbas.netlify.app/"
+  },
+  {
+    id: 5,
+    name: "POS Inventory Management System(Under Construction)",
+    image: pos,
+    link: "https://github.com/Khizer313/khizer-portfolio.git"
   },
 
 ];
